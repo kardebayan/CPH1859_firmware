@@ -1,0 +1,1 @@
+-include vendor/oppo/firmware/$(TARGET_PRODUCT)/config.mk
